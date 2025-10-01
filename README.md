@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Vishal Sharma  
+💻 Enthusiastic in FPGA, Verilog, and Digital Design  
+📘 Love to learn and share knowledge  
 
-<!--
-**sharmavishal5/sharmavishal5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Technologies & Tools
+- Verilog / VHDL
+- FPGA Development (Xilinx, Vivado, Basys3)
+- Microcontrollers & Embedded Systems
+- Python, C, RISC-V
 
-Here are some ideas to get you started:
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmavishal5&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal5&layout=compact&theme=radical)
+
+### 📫 Connect with me:
+- Email: sharmavishal53mx@gmail.com
+
+![Profile Views](https://komarev.com/ghpvc/?username=sharmavishal5&color=blue)
