@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vishal Sharma  
+# Hi there 
 💻 Enthusiastic in FPGA, Verilog, and Digital Design  
 📘 Love to learn and share knowledge  
 
