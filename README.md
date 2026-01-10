@@ -1,18 +1,20 @@
-# Hi there 
-💻 Enthusiastic in FPGA, Verilog, and Digital Design  
-📘 Love to learn and share knowledge  
+# Vishal Sharma
 
-### 🛠️ Technologies & Tools
+## About Me
+I work with FPGA and digital hardware design.
+My focus areas include Verilog, VHDL, and RISC-V based systems.
+
+## Skills
 - Verilog / VHDL
-- FPGA Development (Xilinx, Vivado, Basys3)
-- Microcontrollers & Embedded Systems
-- Python, C, RISC-V
+- FPGA Development (Xilinx Vivado, Basys3)
+- RISC-V Architecture
+- Embedded Systems
+- Python, C
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmavishal5&show_icons=true)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmavishal5&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal5&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal5&layout=compact)
 
-### 📫 Connect with me:
-- Email: sharmavishal53mx@gmail.com
-
-![Profile Views](https://komarev.com/ghpvc/?username=sharmavishal5&color=blue)
+## Contact
+Email: sharmavishal53mx@gmail.com
